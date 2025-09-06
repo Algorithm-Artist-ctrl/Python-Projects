@@ -46,7 +46,5 @@ Each mini-project here is designed to help you build real-world skills while hav
 ---
 
 ## 📬 Connect with Me
-
-- GitHub: [Algorithm-Artist-ctrl](https://github.com/Algorithm-Artist-ctrl)
 ---
 > “Code is like humor. When you have to explain it, it’s bad.” – 😄
